@@ -2,7 +2,7 @@
 Methods, Supp Materials and Codes associated with Nature Physics 18, pp. 1234-1239 (2022)
 
 This is the replication package supporting the paper "Selective and Collective Actuation in Active Solids" 	
-https://doi.org/10.48550/arXiv.2110.01516
+https://doi.org/10.48550/arXiv.2110.01516 or https://doi.org/10.1038/s41567-022-01704-x
 
 It contains:
 
