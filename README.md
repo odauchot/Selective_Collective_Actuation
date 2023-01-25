@@ -16,4 +16,4 @@ Codes: Python scripts to
 - numerics/normal_modes/: compute the normal modes of the elastic structures presented in the manuscript and sort them by symmetry classes.
 - experiments/tracking_algorithm/: perform the tracking (positions and orientations) of the experimental movies.
 
-Data: Experimental movies (.mp4) for all the experiments presented in the manuscript and associated data (.csv) obtained from tracking.
+For Data: Experimental movies (.mp4) for all the experiments presented in the manuscript and associated data (.csv) obtained from tracking see https://zenodo.org/record/6653906
