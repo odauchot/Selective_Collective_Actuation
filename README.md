@@ -6,6 +6,9 @@ https://doi.org/10.48550/arXiv.2110.01516
 
 It contains:
 
+PDF File Methods
+PDF File Supplementary Materials
+
 CAO: .stl files for the experimental systems.
 
 Codes: Python scripts to
